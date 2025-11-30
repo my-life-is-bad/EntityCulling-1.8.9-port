@@ -1,0 +1,12 @@
+[
+{
+  "modid": "entityculling",
+  "name": "EntityCulling",
+  "version": "6.5.0",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/Meldexun/EntityCulling",
+  "authorList": ["Meldexun"],
+  "description": "\u00A7aPort of EntityCulling to 1.8.9 by my_life_is_bad",
+  "logoFile": "logo.png"
+}
+]
