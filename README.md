@@ -2,7 +2,7 @@
 
 # EntityCulling
 
-A port of EntityCulling v6.5.0 which is a mod made by Meldexun.
+A port to 1.8.9 of EntityCulling v6.5.0 which is a mod made by Meldexun.
 Original Mod: https://github.com/Meldexun/EntityCulling/
 
 # Requirements
